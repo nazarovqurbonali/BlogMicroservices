@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "W4k7UpKeR4avnsfdnUMIaEWFRipAK55B5ZZZsIwbe5UR9vUde3VqjelZMh8j7fMFtXKtff//TnFeVeXHpDrAZQ==",
+  "dgSpecHash": "T1efsl+A3vdvty3tvwD5DoduB3pwNSKXLlGMUGtVqKU0Jmld2fvJGh+7RSoBqFGEXFUO3jLwE7twhfaatPBomQ==",
   "success": true,
   "projectFilePath": "C:\\MyData\\Education\\Faridun Beridev Course\\MicroService-Project\\src\\Common\\Common.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\LENOVO\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512"
+    "C:\\Users\\LENOVO\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\npgsql\\8.0.3\\npgsql.8.0.3.nupkg.sha512"
   ],
   "logs": []
 }

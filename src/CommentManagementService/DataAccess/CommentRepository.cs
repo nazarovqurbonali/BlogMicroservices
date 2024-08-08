@@ -2,7 +2,7 @@ using Common.DataAccess;
 
 namespace CommentManagementService.DataAccess;
 
-public class CommentRepository:ICommentRepository
+public sealed class CommentRepository:ICommentRepository
 {
     public IEnumerable<Comment> GetAll()
     {
@@ -28,4 +28,5 @@ public class CommentRepository:ICommentRepository
     {
         throw new NotImplementedException();
     }
+    
 }
