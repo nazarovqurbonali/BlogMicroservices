@@ -1,0 +1,12 @@
+C:\MyData\Education\Faridun Beridev Course\MicroService-Project\src\Common\bin\Debug\net8.0\Common.deps.json
+C:\MyData\Education\Faridun Beridev Course\MicroService-Project\src\Common\bin\Debug\net8.0\Common.dll
+C:\MyData\Education\Faridun Beridev Course\MicroService-Project\src\Common\bin\Debug\net8.0\Common.pdb
+C:\MyData\Education\Faridun Beridev Course\MicroService-Project\src\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyData\Education\Faridun Beridev Course\MicroService-Project\src\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+C:\MyData\Education\Faridun Beridev Course\MicroService-Project\src\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+C:\MyData\Education\Faridun Beridev Course\MicroService-Project\src\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\MyData\Education\Faridun Beridev Course\MicroService-Project\src\Common\obj\Debug\net8.0\Common.dll
+C:\MyData\Education\Faridun Beridev Course\MicroService-Project\src\Common\obj\Debug\net8.0\refint\Common.dll
+C:\MyData\Education\Faridun Beridev Course\MicroService-Project\src\Common\obj\Debug\net8.0\Common.pdb
+C:\MyData\Education\Faridun Beridev Course\MicroService-Project\src\Common\obj\Debug\net8.0\ref\Common.dll
+C:\MyData\Education\Faridun Beridev Course\MicroService-Project\src\Common\obj\Debug\net8.0\Common.sourcelink.json

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UAzk4KHgmdgvD7cXIrAdtY9Kk4MhTA7XjN85QVegtMU=",
+  "Source": "CommentManagementService",
+  "BasePath": "_content/CommentManagementService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
